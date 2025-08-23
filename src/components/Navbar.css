@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+    padding: 10px 20px;
+    display: flex;
+    gap: 20px;
+    position: sticky; /* navbar stays at the top */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    color: #f0a500;
+  }
+  
