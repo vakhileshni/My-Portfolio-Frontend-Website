@@ -54,7 +54,7 @@ function Home() {
         </div>
         <div className="hero-image">
           <img
-            src="https://images.unsplash.com/photo-1531497865144-0464ef8fb9a4"
+            src="https://wallpapers.com/images/hd/information-technology-artificial-intelligence-3lmq7rank0v68rhk"
             alt="Technology"
           />
         </div>
@@ -77,8 +77,7 @@ function Home() {
           </div>
           <div className="card">
             <img
-              src="https://images.unsplash.com/photo-1581092795360-fd1ca04f3d1f"
-              alt="AI/ML"
+              src="https://assets.thehansindia.com/h-upload/2022/11/24/1322049-ia"
             />
             <h3>AI / Machine Learning</h3>
             <p>
@@ -115,11 +114,11 @@ function Home() {
           <div className="footer-contact">
             <div>
               <h4>Email</h4>
-              <p>contact@yourcompany.com</p>
+              <p>alkapal045@gmail.com</p>
             </div>
             <div>
               <h4>Phone</h4>
-              <p>+91 98765 43210</p>
+              <p>+91 9151338489</p>
             </div>
             <div>
               <h4>Location</h4>
